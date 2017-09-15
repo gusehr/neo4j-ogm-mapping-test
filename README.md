@@ -1,6 +1,6 @@
 # neo4j-ogm-mapping-test
 
-All the mentioned files are in src/resorces
+All the mentioned files are in src/resources
 
 1. Copy the persons.csv to the neo4j import folder
 2. Execute the importPersons.cypher to import data into Neo4J
